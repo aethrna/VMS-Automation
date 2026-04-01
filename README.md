@@ -1,4 +1,4 @@
-# 🛂 Lazy VMS
+# Lazy VMS
 
 A Firefox Android extension that automates visitor registration at Cyber 2 Tower — one tap to submit your KTP, selfie, and get your QR code.
 
